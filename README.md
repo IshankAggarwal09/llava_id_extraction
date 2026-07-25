@@ -37,17 +37,13 @@ The model was trained using transfer learning on a synthetic dataset of U.S. ide
 
 ---
 
-## Model Weights
+## 🤗 Model Weights
 
-The trained model weights are hosted on Hugging Face because GitHub does not allow uploading large model files through the web interface.
+The trained model weights are hosted on Hugging Face because GitHub does not support uploading large model files through the web interface.
 
-**Hugging Face Repository**
+**Download the trained model:**
 
-> Replace the link below after publishing your model.
-
-```text
-https://huggingface.co/your-username/llava_id_extraction
-```
+👉 https://huggingface.co/ishank9/llava_id_extraction
 
 ---
 

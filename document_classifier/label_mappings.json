@@ -1,0 +1,16 @@
+{
+    "doc_type_to_id": {
+        "driver_license": 0
+    },
+    "side_to_id": {
+        "back": 0,
+        "front": 1
+    },
+    "state_to_id": {
+        "California": 0,
+        "Florida": 1,
+        "Illinois": 2,
+        "New York": 3,
+        "Texas": 4
+    }
+}
